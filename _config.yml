@@ -1,0 +1,28 @@
+name: Megan Royle MUA
+favicon: null
+layout_spectrum: 0.1813072646036744
+typography_spectrum: 0.2238230963703245
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8388354543130845
+  lightness: 0.8460401599295437
+  saturation: 0.9012127057649195
+  rhythmicContrast: 0.851450233720243
+purpose: []
